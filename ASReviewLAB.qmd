@@ -6,7 +6,7 @@ author: "The ASReview Academy Team"
 ## Introduction to the software ASReview LAB
 
 The **goal** of this exercise is to get familiar with AI-aided screening
-by making use of ASReview LAB v1.x.
+by making use of ASReview LAB v2.x.
 
 You will learn how to install and set up the software, upload data,
 screen records, and export and interpret the results. The exercise will
